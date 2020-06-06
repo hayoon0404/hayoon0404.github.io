@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "https://youtu.be/aR-KAldshAE"
+title                    : "Title"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Your Name"
@@ -120,7 +120,7 @@ author:
 
 # Site Footer
 footer:
-  links:
+  links: https://youtu.be/aR-KAldshAE
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       # url:
